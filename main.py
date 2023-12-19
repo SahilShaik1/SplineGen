@@ -1,5 +1,5 @@
 import pygame
-from Classes import dot, Spline
+from functions import dot, Spline
 from pygame.locals import (
     K_UP,
     K_DOWN,
